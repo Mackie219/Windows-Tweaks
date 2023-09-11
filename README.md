@@ -1,2 +1,5 @@
 # Windows-Tweaks
-This is just started so there is not much right now
+A Project That Has A Bunch of useful Registry and batch files
+
+### Why?
+I Was trying to find a easy way to change settings on my pc
